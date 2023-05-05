@@ -28,6 +28,7 @@ Usage example:
 Run ipranger.py without parameters. Also, you can contact me (@crashbrz) on Twitter<br>
 
 ### Installation ###
+pip install pysnmp<br>
 Clone the repository in the desired location.<br>
 
 ### License ###
